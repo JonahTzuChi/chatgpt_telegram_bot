@@ -309,6 +309,10 @@ async def new_dialog_handle(update: Update, context: CallbackContext):
     await update.message.reply_text("Starting new dialog ✅")
 
     chat_mode = db.get_user_attribute(user_id, "current_chat_mode")
+    # prevent missing chat_mode
+    # user stay with deprecated chat_mode
+    if chat_mode not in openai_utils.keys():
+        chat_mode = "text_improver"
     await update.message.reply_text(f"{openai_utils.CHAT_MODES[chat_mode]['welcome_message']}", parse_mode=ParseMode.HTML)
 
 
