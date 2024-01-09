@@ -1,9 +1,10 @@
 # Telegram Bot Powered by OpenAI: **GPT-4. Fast. No daily limits. Special chat modes**
 
+<!--
 <div align="center">
 <img src="https://raw.githubusercontent.com/karfly/chatgpt_telegram_bot/main/static/header.png" align="center" style="width: 100%" />
 </div>
-
+-->
 <br>
 
 <p align="center">
@@ -93,3 +94,6 @@ You can be in this list: <a href="https://github.com/karfly/chatgpt_telegram_bot
 
 ## References
 1. [*Build ChatGPT from GPT-3*](https://learnprompting.org/docs/applied_prompting/build_chatgpt)
+
+# Remarks
+This is a project I fork from other repo and I try my very best to remove the "ChatGPT". For short, I appreciate the author of the original the repo for his/her contribution and respect the ToS of OpenAI.
