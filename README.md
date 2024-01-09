@@ -96,4 +96,4 @@ You can be in this list: <a href="https://github.com/karfly/chatgpt_telegram_bot
 1. [*Build ChatGPT from GPT-3*](https://learnprompting.org/docs/applied_prompting/build_chatgpt)
 
 # Remarks
-This is a project I fork from other repo and I try my very best to remove the "ChatGPT". For short, I appreciate the author of the original the repo for his/her contribution and respect the ToS of OpenAI.
+This is a project I fork from other repo and I try my very best to remove the "ChatGPT". In short, I appreciate the author of the original the repo for his/her contribution and respect the ToS of OpenAI.
